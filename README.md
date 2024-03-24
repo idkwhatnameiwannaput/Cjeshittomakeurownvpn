@@ -6,11 +6,11 @@ btw install the app "1.1.1.1" or "Cloudflare one agent" both works fine
 
 1: Create an cloudflare account via https://dash.cloudflare.com/sign-up (NOTE: DO NOT use your school email. Use an personal email ex: @gmail.com, @outlook...)
 
-2: Go to zero trust section after making your account
+2: Go to zero trust section after making your account (https://ibb.co/hKG3sWC)
 
-3:Go to Firewall Policies and add a policy
+3:Go to Firewall Policies and add a policy (https://ibb.co/ZN4FHCW)
 
-4:Name your policy and add the following things: Domain, is, mosyle.com
+4:Name your policy and add the following things: Domain, is, mosyle.com (https://ibb.co/DfK7sD5)
 
 5: On action select "block"
 
