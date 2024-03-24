@@ -6,7 +6,7 @@ btw install the app "1.1.1.1" or "Cloudflare one agent" both works fine
 
 1: Create an cloudflare account via https://dash.cloudflare.com/sign-up (NOTE: DO NOT use your school email. Use an personal email ex: @gmail.com, @outlook...)
 
-2: Go to zero trust section fter making your account
+2: Go to zero trust section after making your account
 
 3:Go to Firewall Policies and add a policy
 
