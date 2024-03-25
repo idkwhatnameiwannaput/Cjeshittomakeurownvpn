@@ -1,6 +1,7 @@
 # Note that this guide is for your privacy purposed only AND THIS IS NOT THE FINAL GUIDE. I WILL BE UPDATING THIS WITH MORE DETAILED EXPLAINATIONS AND PICTURES
 (if ur a sec 1 who wanna know how to install vpn to ur pc its gonna come out later lol, idk when ill do it but ill do it eventually)
 
+I do NOT encourage or condure the utilisation of the vpn during class or school time C: dont use it
 
 btw install the app "1.1.1.1" or "Cloudflare one agent" both works fine
 
