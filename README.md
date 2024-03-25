@@ -15,9 +15,13 @@ btw install the app "1.1.1.1" or "Cloudflare one agent" both works fine
 
 5: On action select "block"
 
-6: Save your work and go to connect first device
+6: Go to access groupe and add a groupe
 
-7: Follow the guide and connect your ipad
+7: add "emails ends in" and enters the domain of the email you are using (ex: @gmail.com, @outlook.com...)
 
-8: To have your games during schoo time, enable the vpn before your apps are blocked in order to have them up for the school day.
+8: Save your work and go to connect first device
+
+9: Follow the guide and connect your device
+
+9: To have your games during schoo time, enable the vpn before your apps are blocked in order to have them up for the school day.
 
